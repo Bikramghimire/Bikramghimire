@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bikramghimire
 - 👀 I’m interested in JavaScript, Typescript, React, Nextjs, Remix, Prisma, Nodejs, Nestjs
-- 🌱 I’m currently learning Nextjs, Astro
+- 🌱 I’m currently learning Nextjs, Node
 
 <!---
 Bikramghimire/Bikramghimire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
