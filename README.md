@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bikramghimire
-- 👀 I’m interested in JavaScript, Typescript, React, Nextjs, Remix, Prisma, Nodejs, Nestjs
+- 👀 I’m interested in JavaScript, Typescript, React, Nextjs, Remix, Prisma, Nodejs
 - 🌱 I’m currently learning Nextjs, Node
 
 <!---
